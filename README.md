@@ -11,7 +11,7 @@ Roms: just google
 ### Issues 
 
 - If getting "altserver could not be found" check this [link](https://digilitica.com/gadgets/itunes-wifi-sync-not-working-on-windows-easy-fix/) and these iTunes settings:
-![image](https://github.com/user-attachments/assets/9f9d193e-cc4d-4007-aba4-f7a5ea70331e)
+![image](https://github.com/user-attachments/assets/9f9d193e-cc4d-4007-aba4-f7a5ea70331e) (make to click the little iPhone icon in the top left corner to open up the phone settings)
 (strangely and idk why, setting "Sync with this phone over WiFi" fixed it lol)
 - 
 
